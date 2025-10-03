@@ -1,0 +1,27 @@
+Operators:
+    assignment => = => count = 5
+    arithematic operator => +, /, %, -, *
+    conditional => >, <, <=, >=, !>, !<, !=, == 
+    bitwise operator => 
+    logical => 
+        citizen = True
+        age above 18 and age below 75 = yes
+            if(citizen=="Indian" and age>=18 and age<=75):
+                valid
+
+        citizen = True
+        age below 18 or age above 75 = no
+            if(citizen == "Indian" and (age < 18 or age > 75)==False):
+                valid
+
+            manoj, 22
+        approve
+
+===============
+80 above -> Grade A 
+60 above -> Grade B 
+40 above -> Grade C 
+else -> fail
+
+Home work
+    students -> 5 subjects marks -> sum, avg, max, min, Grade
