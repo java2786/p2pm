@@ -1,6 +1,6 @@
 Operators:
     assignment => = => count = 5
-    arithematic operator => +, /, %, -, *
+    arithematic operator => +, /, //, %, -, *
     conditional => >, <, <=, >=, !>, !<, !=, == 
     bitwise operator => 
     logical => 
