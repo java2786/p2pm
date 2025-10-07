@@ -1,4 +1,4 @@
-str = "naveen"
+str = "madam"
 count = 0
 isPalindrom = True
 
