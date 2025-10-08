@@ -1,0 +1,26 @@
+Expressions
+=> name = "Superman"
+
+=> num = 32
+
+Operators
+=> +, -, >, !=, ==, //, /
+
+
+Leap year 
+
+=> year % 400 == 0
+=> year % 100 == 0
+=> year % 4 == 0
+
+year = int(input("Enter a year")) # seventy two
+
+if(Condition1 and Condition2 and Condition3):
+    Statements
+else:
+    Statements
+
+
+name = "ramesh"
+
+ch = "o"

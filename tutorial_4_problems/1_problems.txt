@@ -1,0 +1,34 @@
+Operators and Expressions
+- Write a program to calculate simple interest.
+- Check whether the input year is a leap year using logical operators.
+- Input 3 angles and check whether they form a valid triangle.
+- Input a number and print its last digit and the number without the last digit.
+    - 2341 => ld = 1, rn = 234
+- Input a 3-digit number and print the sum of its digits.
+
+Conditional Statements
+- Take a number and check if it's positive, negative, or zero.
+- Take a number and check if it's divisible by 5 and 11.
+- Input 3 numbers and print the greatest and the smallest among them.
+- A shop offers a discount of 10% if purchase amount > 1000. Ask user for amount and print final payable amount.
+- Input marks of a student and print the grade as per:
+-     >=80: A
+-     >=65: B
+-     >=50: C
+-     >=40: D
+-     <40: Fail
+- Check whether a character is a vowel or consonant.
+- Ask user to input a number from 1 to 7 and print the corresponding day of the week.
+
+
+# Variables, Data Types, and Input/Output
+- Write a Python program to take your name and age as input and print them.
+- Input a number and print whether it's even or odd (no if/else, just logic with %).
+- Take two numbers as input and print their sum, difference, product, and quotient.
+- Convert temperature from Celsius to Fahrenheit.
+- Calculate the area of a rectangle given length and breadth.
+- Calculate the area and circumference of a circle (take radius as input).
+- Input two numbers and print which one is greater using only comparison operators.
+- Input marks of 3 subjects and print sum, percentage.
+- Print the square and cube of a number input by the user.
+- Input an amount in INR and convert it to USD (assume fixed conversion rate).
