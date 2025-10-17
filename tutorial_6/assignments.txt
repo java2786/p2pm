@@ -1,0 +1,19 @@
+
+Assignment 1: Indian Railway System
+Create a program that manages train information using appropriate data structures: 
+    1. Use tuples for train details (name, number, source, destination) 
+    2. Use sets for available routes 
+    3. Use dictionaries for station codes and train schedules
+
+
+Assignment 2: Flipkart Inventory Management
+Build an inventory system that: 
+    1. Tracks unique product categories using sets 
+    2. Stores product details in dictionaries 
+    3. Maintains order history using appropriate structures
+
+Assignment 3: Student Result Analysis
+Create a result management system that: 
+    1. Stores student marks in dictionaries 
+    2. Finds top performers using appropriate data structures 
+    3. Analyzes subject-wise performance
