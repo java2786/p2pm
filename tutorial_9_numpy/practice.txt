@@ -1,0 +1,10 @@
+How can we analyze ticket prices for train bookings based on distances and class multipliers, 
+and what insights can we derive from the generated booking data?
+
+1001 - 1020
+
+50 500, 20
+
+2.5
+
+sl - 1, 3ac - 1.5, 2ac - 2.5, 1ac - 3
