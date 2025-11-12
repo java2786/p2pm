@@ -1,51 +1,51 @@
 Order_ID,Date,Salesperson,Customer_Name,City,State,Spice_Name,Category,Quantity_KG,Price_Per_KG,Total_Amount,Cost_Per_KG,Profit
-MM001,24-Jan,Priya Patel,Taj Restaurant,Mumbai,Maharashtra,Turmeric Powder,Ground Spices,25,180.00,"4,500.00",120.00,"1,500.00"
-MM002,24-Jan,Amit Kumar,Spice Garden Cafe,Pune,Maharashtra,Red Chili Powder,Ground Spices,15,220.00,"3,300.00",150.00,"1,050.00"
-MM003,24-Jan,Sunita Singh,Royal Kitchen,Mumbai,Maharashtra,Garam Masala,Spice Blends,10,450.00,"4,500.00",300.00,"1,500.00"
-MM004,24-Jan,Priya Patel,Maharaja Dhaba,Nashik,Maharashtra,Cumin Seeds,Whole Spices,30,160.00,"4,800.00",110.00,"1,500.00"
-MM005,24-Jan,Ramesh Gupta,Bombay Bites,Mumbai,Maharashtra,Coriander Powder,Ground Spices,20,140.00,"2,800.00",95.00,900.00
-MM006,24-Jan,Amit Kumar,Sagar Restaurant,Pune,Maharashtra,Black Pepper,Whole Spices,5,800.00,"4,000.00",600.00,"1,000.00"
-MM007,24-Jan,Sunita Singh,Krishna Cafe,Nagpur,Maharashtra,Cardamom,Whole Spices,2,"2,500.00","5,000.00","2,000.00","1,000.00"
-MM008,24-Feb,Priya Patel,Golden Spoon,Mumbai,Maharashtra,Turmeric Powder,Ground Spices,35,180.00,"6,300.00",120.00,"2,100.00"
-MM009,24-Feb,Ramesh Gupta,Pune Palace,Pune,Maharashtra,Biryani Masala,Spice Blends,12,380.00,"4,560.00",250.00,"1,560.00"
-MM010,24-Feb,Amit Kumar,Marathi Mandir,Pune,Maharashtra,Red Chili Powder,Ground Spices,28,220.00,"6,160.00",150.00,"1,960.00"
-MM011,24-Feb,,Deccan Delights,Pune,Maharashtra,Mustard Seeds,Whole Spices,18,120.00,"2,160.00",80.00,720.00
-MM012,24-Feb,Priya Patel,Mumbai Masala,Mumbai,Maharashtra,Garam Masala,Spice Blends,8,450.00,"3,600.00",300.00,"1,200.00"
-MM013,24-Feb,Ramesh Gupta,Nashik Nosh,Nashik,Maharashtra,Cumin Seeds,Whole Spices,25,160.00,"4,000.00",110.00,"1,250.00"
-MM014,24-Feb,,Spicy Affairs,Pune,Maharashtra,Black Pepper,Whole Spices,7,800.00,"5,600.00",600.00,"1,400.00"
-MM015,24-Feb,Sunita Singh,Royal Kitchen,Mumbai,Maharashtra,Cinnamon Sticks,Whole Spices,3,"1,200.00","3,600.00",900.00,900.00
-MM016,24-Mar,Priya Patel,Aurangabad Eats,Aurangabad,Maharashtra,Turmeric Powder,Ground Spices,40,180.00,"7,200.00",120.00,"2,400.00"
-MM017,24-Mar,Ramesh Gupta,Kolhapur Kitchen,Kolhapur,Maharashtra,Kolhapuri Masala,Spice Blends,15,350.00,"5,250.00",220.00,"1,950.00"
-MM018,24-Mar,Amit Kumar,Solapur Spices,Solapur,Maharashtra,Red Chili Powder,Ground Spices,22,220.00,"4,840.00",150.00,"1,540.00"
-MM019,24-Mar,Sunita Singh,,Nagpur,Maharashtra,Orange Peel Powder,Ground Spices,8,300.00,"2,400.00",200.00,800.00
-MM020,24-Mar,Priya Patel,Mumbai Central,Mumbai,Maharashtra,Chat Masala,Spice Blends,20,280.00,"5,600.00",180.00,"2,000.00"
-MM021,24-Mar,Ramesh Gupta,Dhule Dining,Dhule,Maharashtra,Coriander Seeds,Whole Spices,32,130.00,"4,160.00",90.00,"1,280.00"
-MM022,24-Jan,Amit Kumar,,Pune,Maharashtra,Fennel Seeds,Whole Spices,14,200.00,"2,800.00",140.00,840.00
-MM023,24-Jan,Sunita Singh,Latur Lunch,Latur,Maharashtra,Fenugreek Seeds,Whole Spices,10,180.00,"1,800.00",120.00,600.00
-MM024,24-Jan,Priya Patel,Thane Tiffin,Thane,Maharashtra,Sambhar Masala,Spice Blends,18,320.00,"5,760.00",200.00,"2,160.00"
-MM025,24-Jan,Ramesh Gupta,Sangli Sweets,Sangli,Maharashtra,Turmeric Powder,Ground Spices,30,180.00,"5,400.00",120.00,"1,800.00"
-MM026,24-Jan,Amit Kumar,Satara Snacks,Satara,Maharashtra,Red Chili Powder,Ground Spices,26,220.00,"5,720.00",150.00,"1,820.00"
-MM027,24-Jan,Sunita Singh,Ahmednagar Appetite,Ahmednagar,Maharashtra,Cumin Seeds,Whole Spices,35,160.00,"5,600.00",110.00,"1,750.00"
-MM028,24-Jan,Priya Patel,Beed Bites,Beed,Maharashtra,Black Mustard Seeds,Whole Spices,12,150.00,"1,800.00",100.00,600.00
-MM029,24-Feb,Ramesh Gupta,Jalgaon Junction,Jalgaon,Maharashtra,Banana Powder,Ground Spices,6,400.00,"2,400.00",280.00,720.00
-MM030,24-Feb,Amit Kumar,Akola Appetite,Akola,Maharashtra,Garam Masala,Spice Blends,14,450.00,"6,300.00",300.00,"2,100.00"
-MM031,24-Feb,Sunita Singh,Wardha Wonders,Wardha,Maharashtra,Bay Leaves,Whole Spices,4,600.00,"2,400.00",450.00,600.00
-MM032,24-Feb,Priya Patel,Yavatmal Yummy,Yavatmal,Maharashtra,Star Anise,Whole Spices,2,"1,000.00","2,000.00",750.00,500.00
-MM033,24-Feb,Ramesh Gupta,Buldhana Bites,Buldhana,Maharashtra,Asafoetida,Ground Spices,1,"3,000.00","3,000.00","2,200.00",800.00
-MM034,24-Feb,Amit Kumar,Washim Wok,Washim,Maharashtra,Turmeric Powder,Ground Spices,28,180.00,"5,040.00",120.00,"1,680.00"
-MM035,24-Feb,Sunita Singh,Hingoli Kitchen,Hingoli,Maharashtra,Red Chili Powder,Ground Spices,24,220.00,"5,280.00",150.00,"1,680.00"
-MM036,24-Feb,Priya Patel,Nanded Nosh,Nanded,Maharashtra,Pav Bhaji Masala,Spice Blends,16,300.00,"4,800.00",190.00,"1,760.00"
-MM037,24-Mar,Ramesh Gupta,Parbhani Palace,Parbhani,Maharashtra,Coriander Powder,Ground Spices,22,140.00,"3,080.00",95.00,990.00
-MM038,24-Mar,Amit Kumar,Jalna Journey,Jalna,Maharashtra,Cumin Powder,Ground Spices,19,190.00,"3,610.00",130.00,"1,140.00"
-MM039,24-Mar,Sunita Singh,Osmanabad Organic,Osmanabad,Maharashtra,Black Pepper,Whole Spices,6,800.00,"4,800.00",600.00,"1,200.00"
-MM040,24-Mar,Priya Patel,Solapur Supreme,Solapur,Maharashtra,Cloves,Whole Spices,3,"1,500.00","4,500.00","1,200.00",900.00
-MM041,24-Mar,Ramesh Gupta,Pune Premium,Pune,Maharashtra,Nutmeg,Whole Spices,1,"2,000.00","2,000.00","1,500.00",500.00
-MM042,24-Mar,Amit Kumar,Mumbai Magic,Mumbai,Maharashtra,Mace,Whole Spices,1,"2,500.00","2,500.00","2,000.00",500.00
-MM043,24-Mar,Sunita Singh,Nashik Natural,Nashik,Maharashtra,Curry Leaves Powder,Ground Spices,10,250.00,"2,500.00",180.00,700.00
-MM044,24-Mar,Priya Patel,Aurangabad Aroma,Aurangabad,Maharashtra,Rajma Masala,Spice Blends,13,280.00,"3,640.00",180.00,"1,300.00"
-MM045,24-Mar,Ramesh Gupta,Kolhapur Kraft,Kolhapur,Maharashtra,Meat Masala,Spice Blends,11,400.00,"4,400.00",260.00,"1,540.00"
-MM046,24-Apr,Amit Kumar,Nagpur Nouvelle,Nagpur,Maharashtra,Fish Masala,Spice Blends,9,380.00,"3,420.00",240.00,"1,260.00"
-MM047,24-Apr,Sunita Singh,Thane Taste,Thane,Maharashtra,Chicken Masala,Spice Blends,17,360.00,"6,120.00",230.00,"2,210.00"
-MM048,24-Apr,Priya Patel,Mumbai Modern,Mumbai,Maharashtra,Kitchen King Masala,Spice Blends,21,320.00,"6,720.00",200.00,"2,520.00"
-MM049,24-Apr,Ramesh Gupta,Pune Perfect,Pune,Maharashtra,Chana Masala,Spice Blends,14,290.00,"4,060.00",185.00,"1,470.00"
-MM050,24-Apr,Amit Kumar,Final Order Cafe,Mumbai,Maharashtra,Mixed Spice Powder,Spice Blends,25,240.00,"6,000.00",160.00,"2,000.00"
+MM001,24-Jan,Priya Patel,Taj Restaurant,Mumbai,Maharashtra,Turmeric Powder,Ground Spices,25,180,4500,120,1500
+MM002,24-Jan,Amit Kumar,Spice Garden Cafe,Pune,Maharashtra,Red Chili Powder,Ground Spices,15,220,3300,150,1050
+MM003,24-Jan,Sunita Singh,Royal Kitchen,Mumbai,Maharashtra,Garam Masala,Spice Blends,10,450,4500,300,1500
+MM004,24-Jan,Priya Patel,Maharaja Dhaba,Nashik,Maharashtra,Cumin Seeds,Whole Spices,30,160,4800,110,1500
+MM005,24-Jan,Ramesh Gupta,Bombay Bites,Mumbai,Maharashtra,Coriander Powder,Ground Spices,20,140,2800,95,900
+MM006,24-Jan,Amit Kumar,Sagar Restaurant,Pune,Maharashtra,Black Pepper,Whole Spices,5,800,4000,600,1000
+MM007,24-Jan,Sunita Singh,Krishna Cafe,Nagpur,Maharashtra,Cardamom,Whole Spices,2,2500,5000,2000,1000
+MM008,24-Feb,Priya Patel,Golden Spoon,Mumbai,Maharashtra,Turmeric Powder,Ground Spices,35,180,6300,120,2100
+MM009,24-Feb,Ramesh Gupta,Pune Palace,Pune,Maharashtra,Biryani Masala,Spice Blends,12,380,4560,250,1560
+MM010,24-Feb,Amit Kumar,Marathi Mandir,Pune,Maharashtra,Red Chili Powder,Ground Spices,28,220,6160,150,1960
+MM011,24-Feb,,Deccan Delights,Pune,Maharashtra,Mustard Seeds,Whole Spices,18,120,2160,80,720
+MM012,24-Feb,Priya Patel,Mumbai Masala,Mumbai,Maharashtra,Garam Masala,Spice Blends,8,450,3600,300,1200
+MM013,24-Feb,Ramesh Gupta,Nashik Nosh,Nashik,Maharashtra,Cumin Seeds,Whole Spices,25,160,4000,110,1250
+MM014,24-Feb,,Spicy Affairs,Pune,Maharashtra,Black Pepper,Whole Spices,7,800,5600,600,1400
+MM015,24-Feb,Sunita Singh,Royal Kitchen,Mumbai,Maharashtra,Cinnamon Sticks,Whole Spices,3,1200,3600,900,900
+MM016,24-Mar,Priya Patel,Aurangabad Eats,Aurangabad,Maharashtra,Turmeric Powder,Ground Spices,40,180,7200,120,2400
+MM017,24-Mar,Ramesh Gupta,Kolhapur Kitchen,Kolhapur,Maharashtra,Kolhapuri Masala,Spice Blends,15,350,5250,220,1950
+MM018,24-Mar,Amit Kumar,Solapur Spices,Solapur,Maharashtra,Red Chili Powder,Ground Spices,22,220,4840,150,1540
+MM019,24-Mar,Sunita Singh,,Nagpur,Maharashtra,Orange Peel Powder,Ground Spices,8,300,2400,200,800
+MM020,24-Mar,Priya Patel,Mumbai Central,Mumbai,Maharashtra,Chat Masala,Spice Blends,20,280,5600,180,2000
+MM021,24-Mar,Ramesh Gupta,Dhule Dining,Dhule,Maharashtra,Coriander Seeds,Whole Spices,32,130,4160,90,1280
+MM022,24-Jan,Amit Kumar,,Pune,Maharashtra,Fennel Seeds,Whole Spices,14,200,2800,140,840
+MM023,24-Jan,Sunita Singh,Latur Lunch,Latur,Maharashtra,Fenugreek Seeds,Whole Spices,10,180,1800,120,600
+MM024,24-Jan,Priya Patel,Thane Tiffin,Thane,Maharashtra,Sambhar Masala,Spice Blends,18,320,5760,200,2160
+MM025,24-Jan,Ramesh Gupta,Sangli Sweets,Sangli,Maharashtra,Turmeric Powder,Ground Spices,30,180,5400,120,1800
+MM026,24-Jan,Amit Kumar,Satara Snacks,Satara,Maharashtra,Red Chili Powder,Ground Spices,26,220,5720,150,1820
+MM027,24-Jan,Sunita Singh,Ahmednagar Appetite,Ahmednagar,Maharashtra,Cumin Seeds,Whole Spices,35,160,5600,110,1750
+MM028,24-Jan,Priya Patel,Beed Bites,Beed,Maharashtra,Black Mustard Seeds,Whole Spices,12,150,1800,100,600
+MM029,24-Feb,Ramesh Gupta,Jalgaon Junction,Jalgaon,Maharashtra,Banana Powder,Ground Spices,6,400,2400,280,720
+MM030,24-Feb,Amit Kumar,Akola Appetite,Akola,Maharashtra,Garam Masala,Spice Blends,14,450,6300,300,2100
+MM031,24-Feb,Sunita Singh,Wardha Wonders,Wardha,Maharashtra,Bay Leaves,Whole Spices,4,600,2400,450,600
+MM032,24-Feb,Priya Patel,Yavatmal Yummy,Yavatmal,Maharashtra,Star Anise,Whole Spices,2,1000,2000,750,500
+MM033,24-Feb,Ramesh Gupta,Buldhana Bites,Buldhana,Maharashtra,Asafoetida,Ground Spices,1,3000,3000,2200,800
+MM034,24-Feb,Amit Kumar,Washim Wok,Washim,Maharashtra,Turmeric Powder,Ground Spices,28,180,5040,120,1680
+MM035,24-Feb,Sunita Singh,Hingoli Kitchen,Hingoli,Maharashtra,Red Chili Powder,Ground Spices,24,220,5280,150,1680
+MM036,24-Feb,Priya Patel,Nanded Nosh,Nanded,Maharashtra,Pav Bhaji Masala,Spice Blends,16,300,4800,190,1760
+MM037,24-Mar,Ramesh Gupta,Parbhani Palace,Parbhani,Maharashtra,Coriander Powder,Ground Spices,22,140,3080,95,990
+MM038,24-Mar,Amit Kumar,Jalna Journey,Jalna,Maharashtra,Cumin Powder,Ground Spices,19,190,3610,130,1140
+MM039,24-Mar,Sunita Singh,Osmanabad Organic,Osmanabad,Maharashtra,Black Pepper,Whole Spices,6,800,4800,600,1200
+MM040,24-Mar,Priya Patel,Solapur Supreme,Solapur,Maharashtra,Cloves,Whole Spices,3,1500,4500,1200,900
+MM041,24-Mar,Ramesh Gupta,Pune Premium,Pune,Maharashtra,Nutmeg,Whole Spices,1,2000,2000,1500,500
+MM042,24-Mar,Amit Kumar,Mumbai Magic,Mumbai,Maharashtra,Mace,Whole Spices,1,2500,2500,2000,500
+MM043,24-Mar,Sunita Singh,Nashik Natural,Nashik,Maharashtra,Curry Leaves Powder,Ground Spices,10,250,2500,180,700
+MM044,24-Mar,Priya Patel,Aurangabad Aroma,Aurangabad,Maharashtra,Rajma Masala,Spice Blends,13,280,3640,180,1300
+MM045,24-Mar,Ramesh Gupta,Kolhapur Kraft,Kolhapur,Maharashtra,Meat Masala,Spice Blends,11,400,4400,260,1540
+MM046,24-Apr,Amit Kumar,Nagpur Nouvelle,Nagpur,Maharashtra,Fish Masala,Spice Blends,9,380,3420,240,1260
+MM047,24-Apr,Sunita Singh,Thane Taste,Thane,Maharashtra,Chicken Masala,Spice Blends,17,360,6120,230,2210
+MM048,24-Apr,Priya Patel,Mumbai Modern,Mumbai,Maharashtra,Kitchen King Masala,Spice Blends,21,320,6720,200,2520
+MM049,24-Apr,Ramesh Gupta,Pune Perfect,Pune,Maharashtra,Chana Masala,Spice Blends,14,290,4060,185,1470
+MM050,24-Apr,Amit Kumar,Final Order Cafe,Mumbai,Maharashtra,Mixed Spice Powder,Spice Blends,25,240,6000,160,2000
